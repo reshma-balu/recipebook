@@ -1,0 +1,6 @@
+recipe name:butter chicken
+ingredients:
+chicken:1kg
+chilli powder:100g
+pepper:50g
+salt:required
